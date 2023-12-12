@@ -1,9 +1,10 @@
 # SPROCKET-CENTRAL
+## Background
 Sprocket Central Pty Ltd is a long-standing KPMG client specializing in high-quality bikes and accessible cycling accessories for riders.
 Their marketing team is looking to boost business by analyzing their existing customer dataset to determine customer trends and behavior. 
 Using the existing 3 datasets (Customer demographic, customer address, and transactions) as a labeled dataset, please recommend which 1000 new customers should be targeted to drive the most value for the organization. 
 ## Data Source 
-[Datasets](https://cdn-assets.theforage.com/vinternship_modules/kpmg_data_analytics/KPMG_VI_New_raw_data_update_final.xlsx) used for this analysis was provided by Sprocket Central Pty Ltd.
+[Dataset](https://cdn-assets.theforage.com/vinternship_modules/kpmg_data_analytics/KPMG_VI_New_raw_data_update_final.xlsx) used for this analysis was provided by Sprocket Central Pty Ltd.
 ## Tools
 - Excel - Data Cleaning and Analysis
 - Tableau - Creating Dashboard
