@@ -12,16 +12,28 @@ Using the existing 3 datasets (Customer demographic, customer address, and trans
  
 ## Data Exploration
 ### Data Quality Issues and Data Cleaning Process
-These are some of the data quality issues I encountered while going through the datasets.
-- Accuracy
-- Completeness
-- Consistency
-- Relevancy
-- Validity
+These are some of the data quality issues I encountered while reviewing the datasets.
 
-  |Datasets|Accuracy|Completeness|Consistency|Relevany|Validity|
+  |Datasets|Inacccuracy|Incompleteness|Inconsistency|Irrelevany|Validity|
   |--------|--------|------------|-----------|--------|--------|
-  |Customer Dermographic|DOB column had Inaccurate date format|Age, Job title, Job Category, Last name, and customer ID columns had Null  values| Gender column had inconsistent format|Deleted the default column|
+  |Customer Demographic|DOB column had Inaccurate date format|Age, Job title, Job Category, Last name, and customer ID columns had Null  values| Gender column had inconsistent format|Deleted the default column|
   |Customer Address| | | State Column had inconsistent format| | |
   |Transaction| | Customer ID, Online order, and brand columns had null values| | |Pricelist column had incorrect date format|
- 
+
+Below are more in-depth descriptions of the data quality issues encountered in the datasets and some mitigation and recommendations. 
+- Inaccuracy:
+
+  Some dates in the DOB column in the "Customer Demographic" datasets were inaccurate and missing some values.
+
+  Mitigation: After sorting the DOB column in ascending order, you'll notice an outlier. Filter out the outlier in the DOB.
+
+   Recommendation: Create an age column using the DOB to help in analyzing the data.
+
+- Incompleteness
+
+  The age, Job title, Job Category, Last Name, and Customer ID columns, have empty values among the "Custoner Demographic" and "Transactions" datasets.
+
+  Mitigation: Since the number of empty values is few, we can filter them out and proceed with our analysis.
+- Inconsistency
+- Irrelevancy
+- Validity
