@@ -34,6 +34,7 @@ Below are more in-depth descriptions of the data quality issues encountered in t
   The age, Job title, Job Category, Last Name, and Customer ID columns, had empty values among the "Customer Demographic" and "Transactions" datasets.
 
   Mitigation: Since the number of empty values were few, filter them out and proceed with our analysis. Because the can skew the result of our analysis.
+
 - Inconsistency:
 
   There were cases of inconsistent values and data type in the state and gender columns. Some of the state names and genders were represented with abbreviations while others had extended values.
@@ -46,7 +47,7 @@ Below are more in-depth descriptions of the data quality issues encountered in t
 
   The pricelist column had incorrect date format.
 
-## CALCULATIONS 
+### CALCULATIONS 
 Create additional columns to allow for further and easy analysis.
 
 - Age column in the Customer Demographic dataset with the formula ```=(NOW()-DOB)/365```
@@ -67,11 +68,23 @@ Create additional columns to allow for further and easy analysis.
 ## RFM Analysis
 In order to identify the top 1000 customers SPROCKET-CENTRAL should target, I used the RFM analysis method. This is a segmentation type that allows businesses to rank and segment customers based on the recency, frequency and monetary value of a transaction. Based on the data, the customers were segmented in 10 categories according to their RFM values.
 
-To derive the RFM values of each customer, first we have to calculate the R(recency) value, F(frenquency) value and the M(Monetary)value of each customer.
-Recency: Talks about how recent your transaction is as compared to the current date. This is determined by substracting the last transaction date from the comparison(current) date.
-```=Comparison date - Transactuion_date```
+To derive the RFM values of each customer, first we have to calculate the R(recency), F(frenquency) and the M(Monetary) scores of each customer using the PERCENTRANK function.
+Create a pivot table from the "Transactions" datasets using the customer_id, recency, product_id and profit columns.
 
-Frequency: This refers to the number of times a customer purchased products.
-Monetary : The of profit generated from each customer. 
+- Recency: Talks about how recent your transaction is as compared to the current date. This is determined by substracting the last transaction date from the comparison(current) date.
+  ```=Comparison date - Transaction_date```                                                                                                                                      
 
+  Recency score = ```=(1-PERCENTRANK.INC($B$2:$B$3494,B2,1))*10```
+
+- Frequency: Count of purchaces made during a period of time. Determined by the ```count of product_id```
+                                                                                                                                                                               
+  Frequency score = ```=PERCENTRANK.INC($C$2:$C$3494,C2,1)*10```
+
+- Monetary : The sum of amount generated from purchases for a period of time.
+
+  Monetary score = ```=PERCENTRANK.INC($D$2:$D$3494,D2,1)*10``` 
+
+The RFM value is the summation of the scores.
+  
+  RFM value = Recency score + Frequency score + Monetary score 
   
