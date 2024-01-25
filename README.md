@@ -11,10 +11,10 @@ Using the existing 3 datasets (Customer demographic, customer address, and trans
 
  
 ## Data Exploration
-### Data Quality Issues and Data Cleaning Process
+### Data Quality Assessment and Data Cleaning Process
 These are some of the data quality issues I encountered while reviewing the datasets.
 
-  |Datasets|Inacccuracy|Incompleteness|Inconsistency|Irrelevany|Validity|
+  |Datasets|Inacccuracy|Incompleteness|Inconsistency|Irrelevancy|Validity|
   |--------|--------|------------|-----------|--------|--------|
   |Customer Demographic|DOB column had Inaccurate date format|Age, Job title, Job Category, Last name, and customer ID columns had Null  values| Gender column had inconsistent format|Deleted the default column|
   |Customer Address| | | State Column had inconsistent format| | |
@@ -29,11 +29,49 @@ Below are more in-depth descriptions of the data quality issues encountered in t
 
    Recommendation: Create an age column using the DOB to help in analyzing the data.
 
-- Incompleteness
+- Incompleteness:
 
-  The age, Job title, Job Category, Last Name, and Customer ID columns, have empty values among the "Custoner Demographic" and "Transactions" datasets.
+  The age, Job title, Job Category, Last Name, and Customer ID columns, had empty values among the "Customer Demographic" and "Transactions" datasets.
 
-  Mitigation: Since the number of empty values is few, we can filter them out and proceed with our analysis.
-- Inconsistency
-- Irrelevancy
-- Validity
+  Mitigation: Since the number of empty values were few, filter them out and proceed with our analysis. Because the can skew the result of our analysis.
+- Inconsistency:
+
+  There were cases of inconsistent values and data type in the state and gender columns. Some of the state names and genders were represented with abbreviations while others had extended values.
+
+  Mitigation: To ensure consistentcy, change the the abbreviations to extended values to get a consistent column. For instance, by using the "find and replace" in excel. Change "M or F" to "Male or Female" and "VIC" to "Victoria". 
+- Irrelevancy:
+
+  Deleted the default column in the "Customer Demographic" dataset because it was irrelevant/ had no impact no my analysis.
+- Validity: 
+
+  The pricelist column had incorrect date format.
+
+## CALCULATIONS 
+Create additional columns to allow for further and easy analysis.
+
+- Age column in the Customer Demographic dataset with the formula ```=(NOW()-DOB)/365```
+
+- Profit column in the Transactions dataset with the formula ```=list_price - standard_cost```
+
+  Join some the columns from the "Customer demographic" to "Transactions" datasets with the help of "VLOOKUP" for further.
+
+  These are some of the excel functions that helped me:
+
+  ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,4,FALSE)```
+
+  ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,5,FALSE)```
+
+  ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,13,FALSE)```
+  
+# MODEL DEVELOPMENT
+## RFM Analysis
+In order to identify the top 1000 customers SPROCKET-CENTRAL should target, I used the RFM analysis method. This is a segmentation type that allows businesses to rank and segment customers based on the recency, frequency and monetary value of a transaction. Based on the data, the customers were segmented in 10 categories according to their RFM values.
+
+To derive the RFM values of each customer, first we have to calculate the R(recency) value, F(frenquency) value and the M(Monetary)value of each customer.
+Recency: Talks about how recent your transaction is as compared to the current date. This is determined by substracting the last transaction date from the comparison(current) date.
+```=Comparison date - Transactuion_date```
+
+Frequency: This refers to the number of times a customer purchased products.
+Monetary : The of profit generated from each customer. 
+
+  
