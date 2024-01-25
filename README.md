@@ -69,7 +69,7 @@ Create additional columns to allow for further and easy analysis.
 In order to identify the top 1000 customers SPROCKET-CENTRAL should target, I used the RFM analysis method. This is a segmentation type that allows businesses to rank and segment customers based on the recency, frequency and monetary value of a transaction. Based on the data, the customers were segmented in 10 categories according to their RFM values.
 
 To derive the RFM values of each customer, first we have to calculate the R(recency), F(frenquency) and the M(Monetary) scores of each customer using the PERCENTRANK function.
-Create a pivot table from the "Transactions" datasets using the customer_id, recency, product_id and profit columns.
+Create a pivot table named RFM table from the "Transactions" dataset using the customer_id, recency, product_id and profit columns.
 
 - Recency: Talks about how recent your transaction is as compared to the current date. This is determined by substracting the last transaction date from the comparison(current) date.
   ```=Comparison date - Transaction_date```                                                                                                                                      
