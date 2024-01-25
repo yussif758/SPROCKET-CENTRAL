@@ -64,8 +64,8 @@ Create additional columns to allow for further and easy analysis.
 
   ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,13,FALSE)```
   
-# MODEL DEVELOPMENT
-## RFM Analysis
+## MODEL DEVELOPMENT
+### RFM Analysis
 In order to identify the top 1000 customers SPROCKET-CENTRAL should target, I used the RFM analysis method. This is a segmentation type that allows businesses to rank and segment customers based on the recency, frequency and monetary value of a transaction. Based on the data, the customers were segmented in 10 categories according to their RFM values.
 
 To derive the RFM values of each customer, first we have to calculate the R(recency), F(frenquency) and the M(Monetary) scores of each customer using the PERCENTRANK function.
