@@ -84,7 +84,7 @@ Create a pivot table named RFM table from the "Transactions" dataset using the c
 
   Monetary score = ```=PERCENTRANK.INC($D$2:$D$3494,D2,1)*10``` 
 
-- RFM values: The RFM value is the summation of the scores. 
+- RFM values: The RFM value is the summation of the scores. Customers are ranked from 1 to 10 based on their RFM scores.
   
   RFM value = Recency score + Frequency score + Monetary score 
 
@@ -92,7 +92,7 @@ Create a pivot table named RFM table from the "Transactions" dataset using the c
 
 #### Cutomer Segmentation
 
-Customrs are now segmented based on their RFM score.
+Customrs are now grouped based on their RFM score.
   
   |RFM score|Customer Segmentation|
   |------|-----|
