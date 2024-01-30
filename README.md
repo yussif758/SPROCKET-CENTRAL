@@ -90,9 +90,9 @@ Create a pivot table named RFM table from the "Transactions" dataset using the c
 
   RFM score = ```=VLOOKUP(I3,$N$7:$O$18,2,FALSE)```
 
-#### Cutomer Segmentation
+#### Customer Segmentation
 
-Customrs are now grouped based on their RFM score.
+Group customers based on their RFM scores.
   
   |RFM score|Customer Segmentation|
   |------|-----|
