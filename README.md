@@ -105,4 +105,6 @@ Group customers based on their RFM scores.
 Now, sort the customers from highest to lowest based on their RFM score. After that we can now select the top 1000 customers.
 
 ## Key Findings/ Customer Behaviour
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/5edcbb9b-7f89-4c0a-b4cf-efc30332ce2c" width="1000" height="500" >
+
+![Target Customer Age Distribution](https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/5edcbb9b-7f89-4c0a-b4cf-efc30332ce2c)
