@@ -54,7 +54,7 @@ Create additional columns to allow for further and easy analysis.
 
 - Profit column in the Transactions dataset with the formula ```=list_price - standard_cost```
 
-  Join some the columns from the "Customer demographic" to "Transactions" datasets with the help of "VLOOKUP" for further.
+Join some the columns from the "Customer demographic" to "Transactions" datasets with the help of "VLOOKUP" for further. 
 
   These are some of the excel functions that helped me:
 
