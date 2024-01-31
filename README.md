@@ -105,3 +105,4 @@ Group customers based on their RFM scores.
 Now, sort the customers from highest to lowest based on their RFM score. After that we can now select the top 1000 customers.
 
 ## Key Findings/ Customer Behaviour
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
