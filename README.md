@@ -107,4 +107,8 @@ Now, sort the customers from highest to lowest based on their RFM score. After t
 ## Key Findings/ Customer Behaviour
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/5edcbb9b-7f89-4c0a-b4cf-efc30332ce2c" width="900" height="450" >
 
-![Target Customer Age Distribution](https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/5edcbb9b-7f89-4c0a-b4cf-efc30332ce2c)
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/64ae3383-3f3f-4d97-b64c-ab6b2128ecda" width="900" height="450" >
+ 
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/3f94c2b1-6e97-44d1-9b43-fb737cfb50e8" width="900" height="450" >
+
+ 
