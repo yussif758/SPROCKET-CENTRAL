@@ -105,8 +105,11 @@ Group customers based on their RFM scores.
 Now, sort the customers from highest to lowest based on their RFM score. After that we can now select the top 1000 customers.
 
 ## Key Findings/ Customer Behaviour
-
+The top 1000 customers out of a total of number 3494 customers were selected for this analysis.
 ## Age Distribution
+
+- The figure below shows the age distribution of the top 1000 customers selected.
+- 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/5edcbb9b-7f89-4c0a-b4cf-efc30332ce2c" width="900" height="450" >
 
 ## Gender Distribution 
