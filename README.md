@@ -105,11 +105,13 @@ Group customers based on their RFM scores.
 Now, sort the customers from highest to lowest based on their RFM score. After that we can now select the top 1000 customers.
 
 ## Key Findings/ Customer Behaviour
-The top 1000 customers out of a total of number 3494 customers were selected for this analysis.
+The top 1000 customers out of a total of 3494 customers were selected for this analysis.
+
 ## Age Distribution
 
 - The figure below shows the age distribution of the top 1000 customers selected.
-- We can se that Major of the customers are in their 50s 
+- We can see that the majority of the customers are in the 50-year-old category. Which means they're either 50 or closer to 50 years old.
+- The data suggest that the age categories of 80 to 100 years had the fewest number of customers. Only a few customers are between the ages of 80 and 100 years old.
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/5edcbb9b-7f89-4c0a-b4cf-efc30332ce2c" width="850" height="450" >
 
 ## Gender Distribution 
