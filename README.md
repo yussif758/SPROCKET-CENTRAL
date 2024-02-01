@@ -109,17 +109,17 @@ Now, sort the customers from highest to lowest based on their RFM score. After t
 ## Age Distribution
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/5edcbb9b-7f89-4c0a-b4cf-efc30332ce2c" width="900" height="450" >
 
-## Customer Segmentation
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/64ae3383-3f3f-4d97-b64c-ab6b2128ecda" width="900" height="450" >
-
-##  Wealth Segment 
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/3f94c2b1-6e97-44d1-9b43-fb737cfb50e8" width="900" height="450" >
-
 ## Gender Distribution 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/10bb338f-e4ad-4fc7-b2df-8f09ec34be60" width="900" height="450" >
 
+## Customer Segmentation
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/64ae3383-3f3f-4d97-b64c-ab6b2128ecda" width="900" height="450" >
+
 ## Job Distribution 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/05f5e7fb-4105-4645-a42e-d0b69c20f490" width="900" height="450" >
+
+##  Wealth Segment 
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/3f94c2b1-6e97-44d1-9b43-fb737cfb50e8" width="900" height="450" >
 
 ## Total Profit per Month 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/aa27d4ef-f43c-421a-9a94-17446346a554" width="900" height="450" >
