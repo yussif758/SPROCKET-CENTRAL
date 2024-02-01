@@ -109,8 +109,8 @@ The top 1000 customers out of a total of number 3494 customers were selected for
 ## Age Distribution
 
 - The figure below shows the age distribution of the top 1000 customers selected.
-- 
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/5edcbb9b-7f89-4c0a-b4cf-efc30332ce2c" width="900" height="450" >
+- We can se that Major of the customers are in their 50s 
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/5edcbb9b-7f89-4c0a-b4cf-efc30332ce2c" width="850" height="450" >
 
 ## Gender Distribution 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/10bb338f-e4ad-4fc7-b2df-8f09ec34be60" width="900" height="450" >
