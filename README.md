@@ -111,4 +111,10 @@ Now, sort the customers from highest to lowest based on their RFM score. After t
  
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/3f94c2b1-6e97-44d1-9b43-fb737cfb50e8" width="900" height="450" >
 
- 
+ ![Target Customers Gender Distribution](https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/10bb338f-e4ad-4fc7-b2df-8f09ec34be60)
+
+![Target Customer Job Distribution](https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/05f5e7fb-4105-4645-a42e-d0b69c20f490)
+![Amount spent per month](https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/aa27d4ef-f43c-421a-9a94-17446346a554)
+ ![Location Of Target Customers](https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/928dd37c-06fa-4dfd-b19e-4b4423324db2)
+
+
