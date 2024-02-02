@@ -131,17 +131,18 @@ The top 1000 customers out of a total of 3494 customers were selected for this a
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/64ae3383-3f3f-4d97-b64c-ab6b2128ecda" width="900" height="450" >
 
 ## Job Distribution 
-- The pie chart shows the distribution of job industries
-- Most of the customers are in financial service or manufacturing.
+ 
+- Most of the customers are in the financial services and manufacturing industries.
 - The financial services and manufacturing industries account for about 25% and 22%, respectively.
 - With 1.91%, 2.86%, and 3.70% of customers, respectively, the industries with the fewest customers are telecommunications, agriculture, and entertainment.
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/05f5e7fb-4105-4645-a42e-d0b69c20f490" width="900" height="450" >
 
+## Total Profit per Month 
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/aa27d4ef-f43c-421a-9a94-17446346a554" width="900" height="450" >
+
 ##  Wealth Segment 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/3f94c2b1-6e97-44d1-9b43-fb737cfb50e8" width="900" height="450" >
 
-## Total Profit per Month 
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/aa27d4ef-f43c-421a-9a94-17446346a554" width="900" height="450" >
 
 ## Customer Location
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/928dd37c-06fa-4dfd-b19e-4b4423324db2" width="900" height="450" >
