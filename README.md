@@ -56,13 +56,13 @@ Create additional columns to allow for further and easy analysis.
 
 Join some the columns from the "Customer demographic" to "Transactions" datasets with the help of "VLOOKUP" for further. 
 
-  These are some of the excel functions that helped me:
+- These are some of the excel functions that helped me:
 
-  ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,4,FALSE)```
+    ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,4,FALSE)```
 
-  ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,5,FALSE)```
-
-  ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,13,FALSE)```
+    ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,5,FALSE)```
+    
+    ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,13,FALSE)```
   
 ### MODEL DEVELOPMENT
 #### RFM Analysis
@@ -105,21 +105,23 @@ Group customers based on their RFM scores.
 Now, sort the customers from highest to lowest based on their RFM score. After that we can now select the top 1000 customers.
 
 ## Key Findings/ Customer Behaviour
-The top 1000 customers out of a total of 3494 customers were selected for this analysis.
+The top 1000 customers out of a total of 3494 customers were selected for this analysis. Also known as the target customers.
 
 ## Age Distribution
 
-- The figure below shows the age distribution of the top 1000 customers selected.
-- We can see that the majority of the customers are in the 50-year-old category. Which means they're either 50 or closer to 50 years old.
-- The data suggest that the age categories of 80 to 100 years had the fewest number of customers. Only a few customers are between the ages of 80 and 100 years old.
+- The age distribution of the top 1000 customers is displayed in the chart below.
+- It is evident that the majority of the customers fall within the 50-year-old category. Which indicates that they are 50 years old, or almost 50.
+- Age groups between 80 and 100 years old appeared to have the fewest customers, according to the data. The age range of 80 to 100 years old comprises a small subset of the customers.
+
+
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/5edcbb9b-7f89-4c0a-b4cf-efc30332ce2c" width="850" height="450" >
 
 ## Gender Distribution 
 
-- There were three distinct gender categories among the 1000 clients. Three genders: male, female, and unisex
+- There were three distinct gender categories among the target customers. Three genders: male, female, and unknown.
 - Female dominance is evident from the gender distribution chart.
-- Males account for only 46.40% of the top 1000 consumers, with 50.20% of them being female.
-- 
+- Males account for only 46.40% of the target consumers, with 50.20% of them being female.
+- For the remaining 3.40% of customers, the gender is unknown.
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/10bb338f-e4ad-4fc7-b2df-8f09ec34be60" width="900" height="450" >
 
 ## Customer Segmentation
