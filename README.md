@@ -115,6 +115,11 @@ The top 1000 customers out of a total of 3494 customers were selected for this a
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/5edcbb9b-7f89-4c0a-b4cf-efc30332ce2c" width="850" height="450" >
 
 ## Gender Distribution 
+
+- There were three distinct gender categories among the 1000 clients. Three genders: male, female, and unisex
+- Female dominance is evident from the gender distribution chart.
+- Males account for only 46.40% of the top 1000 consumers, with 50.20% of them being female.
+- 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/10bb338f-e4ad-4fc7-b2df-8f09ec34be60" width="900" height="450" >
 
 ## Customer Segmentation
