@@ -2,7 +2,7 @@
 ## Background
 Sprocket Central Pty Ltd is a long-standing KPMG client specializing in high-quality bikes and accessible cycling accessories for riders.
 Their marketing team is looking to boost business by analyzing their existing customer dataset to determine customer trends and behavior. 
-Using the existing 3 datasets (Customer demographic, customer address, and transactions) as a labeled dataset, please recommend which 1000 new customers should be targeted to drive the most value for the organization. 
+Using the existing 3 datasets (Customer demographic, customer address, and transactions) as a labeled dataset, please recommend which 1000 customers should be targeted to drive the most value for the organization. 
 ## Data Source 
 [Dataset](https://cdn-assets.theforage.com/vinternship_modules/kpmg_data_analytics/KPMG_VI_New_raw_data_update_final.xlsx) used for this analysis was provided by Sprocket Central Pty Ltd.
 ## Tools
@@ -125,11 +125,15 @@ The top 1000 customers out of a total of 3494 customers were selected for this a
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/10bb338f-e4ad-4fc7-b2df-8f09ec34be60" width="900" height="450" >
 
 ## Customer Segmentation
-
-- Atfer the customers were divided into 5 different categories according to their RFM scores. The target customers fell under the top and loyal customer categories.
+- The target customers consists of customers who belong to the "top" or "loyal" customer segment.
+- The majority of the target customers are "top customers," making up 63.70% of the target customers.
+- While 36.30% of the target customers are loyal customers. 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/64ae3383-3f3f-4d97-b64c-ab6b2128ecda" width="900" height="450" >
 
 ## Job Distribution 
+- The pie chart shows the distribution of job industries
+- Most of the customers are in financial service or manufacturing.
+- The financial services and manufacturing industries account for about 25% and 22%, respectively.
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/05f5e7fb-4105-4645-a42e-d0b69c20f490" width="900" height="450" >
 
 ##  Wealth Segment 
