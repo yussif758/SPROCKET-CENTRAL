@@ -134,6 +134,7 @@ The top 1000 customers out of a total of 3494 customers were selected for this a
 - The pie chart shows the distribution of job industries
 - Most of the customers are in financial service or manufacturing.
 - The financial services and manufacturing industries account for about 25% and 22%, respectively.
+- With 1.91%, 2.86%, and 3.70% of customers, respectively, the industries with the fewest customers are telecommunications, agriculture, and entertainment.
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/05f5e7fb-4105-4645-a42e-d0b69c20f490" width="900" height="450" >
 
 ##  Wealth Segment 
