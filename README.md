@@ -125,6 +125,8 @@ The top 1000 customers out of a total of 3494 customers were selected for this a
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/10bb338f-e4ad-4fc7-b2df-8f09ec34be60" width="900" height="450" >
 
 ## Customer Segmentation
+
+- Atfer the customers were divided into 5 different categories according to their RFM scores. The target customers fell under the top and loyal customer categories.
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/64ae3383-3f3f-4d97-b64c-ab6b2128ecda" width="900" height="450" >
 
 ## Job Distribution 
