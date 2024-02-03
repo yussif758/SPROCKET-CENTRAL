@@ -141,6 +141,7 @@ The top 1000 customers out of a total of 3494 customers were selected for this a
 - The line graph below displays the total profit from customer transactions per month.
 - With a total of $430,687 generated, April had the greatest amount. Followed by $429,340 generated in September.
 - January brought in the least amount of money from customer transactions, totaling $187,981.
+- Following the company's greatest profit in April, we can see fluctuations in the monthly profit.
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/aa27d4ef-f43c-421a-9a94-17446346a554" width="900" height="450" >
 
 ##  Wealth Segment 
