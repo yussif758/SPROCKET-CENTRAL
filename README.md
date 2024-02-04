@@ -23,29 +23,31 @@ These are some of the data quality issues I encountered while reviewing the data
 Below are more in-depth descriptions of the data quality issues encountered in the datasets and some mitigation and recommendations. 
 - Inaccuracy:
 
-  Some dates in the "DOB" column in the "Customer Demographic" datasets were inaccurate and missing some values.
+Some dates in the "DOB" column in the "Customer Demographic" datasets were inaccurate and missing some values.
 
-  Mitigation: After sorting the DOB column in ascending order, you'll notice an outlier. Filter out the outlier in the DOB.
+ Mitigation: After sorting the DOB column in ascending order, you'll notice an outlier. Filter out the outlier in the DOB.
 
-   Recommendation: Create an age column using the DOB to help in analyzing the data.
+ Recommendation: Create an age column using the DOB to help in analyzing the data.
 
 - Incompleteness:
 
-  The age, Job title, Job Category, Last Name, and Customer ID columns, had empty values among the "Customer Demographic" and "Transactions" datasets.
+The age, job title, job category, last name, and customer ID columns had empty values among the "customer demographic" and "transactions" datasets.
 
-  Mitigation: Since the number of empty values were few, filter them out and proceed with our analysis. Because the can skew the result of our analysis.
+Mitigation: Since the number of empty values was small, filter them out and proceed with our analysis. Because it can skew the result of our analysis.
 
 - Inconsistency:
 
-  There were cases of inconsistent values and data type in the state and gender columns. Some of the state names and genders were represented with abbreviations while others had extended values.
+There were cases of inconsistent values and data types in the state and gender columns. Some of the state names and genders were represented with abbreviations, while others had extended values.
 
-  Mitigation: To ensure consistentcy, change the the abbreviations to extended values to get a consistent column. For instance, by using the "find and replace" in excel. Change "M or F" to "Male or Female" and "VIC" to "Victoria". 
+Mitigation: To ensure consistency, change the abbreviations to extended values to get a consistent column. For instance, by using "find and replace" in Excel, Change "male, female, or femal" to "M or F" and "VIC" to "victoria."
+
 - Irrelevancy:
 
-  Deleted the default column in the "Customer Demographic" dataset because it was irrelevant/ had no impact no my analysis.
+Deleted the default column in the "Customer Demographic" dataset because it was irrelevant/ had no impact no my analysis.
+
 - Validity: 
 
-  The pricelist column had incorrect date format.
+The pricelist column had incorrect date format.
 
 #### Calculations and Transformation
 Create additional columns to allow for further and easy analysis.
