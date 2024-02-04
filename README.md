@@ -23,7 +23,7 @@ These are some of the data quality issues I encountered while reviewing the data
 Below are more in-depth descriptions of the data quality issues encountered in the datasets and some mitigation and recommendations. 
 - Inaccuracy:
 
-  Some dates in the DOB column in the "Customer Demographic" datasets were inaccurate and missing some values.
+  Some dates in the "DOB" column in the "Customer Demographic" datasets were inaccurate and missing some values.
 
   Mitigation: After sorting the DOB column in ascending order, you'll notice an outlier. Filter out the outlier in the DOB.
 
