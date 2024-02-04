@@ -49,7 +49,7 @@ Deleted the default column in the "Customer Demographic" dataset because it was 
 
 The pricelist column had incorrect date format.
 
-#### Calculations and Transformation
+### Calculations and Transformation
 Create additional columns to allow for further and easy analysis.
 
 - Age column in the Customer Demographic dataset with the formula ```=(NOW()-DOB)/365```
@@ -66,7 +66,7 @@ Join some of the columns from the "customer demographic" to "transactions" datas
     ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,13,FALSE)```
   
 ### MODEL DEVELOPMENT
-#### RFM Analysis
+### RFM Analysis
 In order to identify the top 1000 customers SPROCKET-CENTRAL should target, I used the RFM analysis method. This is a segmentation type that allows you to rank and segment customers based on the RFM values of their transactions. I was able to divide the customers into five segments according to their RFM scores.
 
 To derive the RFM values of each customer, first we have to calculate the R (recency), F (frenquency), and M (monetary) scores of each customer using the PERCENTRANK function.
@@ -91,7 +91,7 @@ Create a pivot table named RFM table from the "Transactions" dataset using the c
 
   RFM score = ```=VLOOKUP(I3,$N$7:$O$18,2,FALSE)```
 
-#### Customer Segmentation
+### Customer Segmentation
 
 Group customers based on their RFM scores.
   
@@ -109,7 +109,7 @@ Group customers based on their RFM scores.
 
 For this study, the top 1000 customers were chosen from a total of 3494 customers. 
 
-## Age Distribution
+### Age Distribution
 
 - The age distribution of the top 1000 customers is displayed in the chart below.
 - It is evident that the majority of the customers fall within the 50-year-old category. Which indicates that they are 50 years old, or almost 50.
@@ -118,7 +118,7 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/5edcbb9b-7f89-4c0a-b4cf-efc30332ce2c" width="850" height="450" >
 
-## Gender Distribution 
+### Gender Distribution 
 
 - There were three distinct gender categories among the target customers. Three genders: male, female, and unknown.
 - Female dominance is evident from the gender distribution chart.
@@ -126,27 +126,27 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 - For the remaining 3.40% of customers, the gender is unknown.
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/10bb338f-e4ad-4fc7-b2df-8f09ec34be60" width="900" height="450" >
 
-## Customer Segmentation
+### Customer Segmentation
 - The target customers consists of customers who belong to the "top" or "loyal" customer segment.
 - The majority of the target customers are "top customers," making up 63.70% of the target customers.
 - While 36.30% of the target customers are loyal customers. 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/64ae3383-3f3f-4d97-b64c-ab6b2128ecda" width="900" height="450" >
 
-## Job Distribution 
+### Job Distribution 
  
 - Most of the customers are in the financial services and manufacturing industries.
 - The financial services and manufacturing industries account for about 25% and 22%, respectively.
 - With 1.91%, 2.86%, and 3.70% of customers, respectively, the industries with the fewest customers are telecommunications, agriculture, and entertainment.
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/05f5e7fb-4105-4645-a42e-d0b69c20f490" width="900" height="450" >
 
-## Total Profit per Month 
+### Total Profit per Month 
 - The line graph below displays the total profit from customer transactions per month.
 - With a total of $430,687 generated, April had the greatest amount. Followed by $429,340 generated in September.
 - January brought in the least amount of money from customer transactions, totaling $187,981.
 - Following the company's greatest profit in April, we can see fluctuations in the monthly profit.
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/aa27d4ef-f43c-421a-9a94-17446346a554" width="900" height="450" >
 
-##  Wealth Segment 
+###  Wealth Segment 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/3f94c2b1-6e97-44d1-9b43-fb737cfb50e8" width="900" height="450" >
 
 
