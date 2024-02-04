@@ -54,11 +54,10 @@ Create additional columns to allow for further and easy analysis.
 
 - Profit column in the Transactions dataset with the formula ```=list_price - standard_cost```
 
-Join some the columns from the "Customer demographic" to "Transactions" datasets with the help of "VLOOKUP" for further. 
+Join some of the columns from the "customer demographic" to "transactions" datasets with the help of "VLOOKUP" for further analysis.
+- These are some of the Excel functions that helped me:
 
-- These are some of the excel functions that helped me:
-
-    ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,4,FALSE)```
+  ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,4,FALSE)```
 
     ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,5,FALSE)```
     
@@ -66,10 +65,10 @@ Join some the columns from the "Customer demographic" to "Transactions" datasets
   
 ### MODEL DEVELOPMENT
 #### RFM Analysis
-In order to identify the top 1000 customers SPROCKET-CENTRAL should target, I used the RFM analysis method. This is a segmentation type that allows businesses to rank and segment customers based on the recency, frequency and monetary value of a transaction. Based on the data, the customers were segmented in 5 categories according to their RFM values.
+In order to identify the top 1000 customers SPROCKET-CENTRAL should target, I used the RFM analysis method. This is a segmentation type that allows you to rank and segment customers based on the RFM values of their transactions. I was able to divide the customers into five segments according to their RFM scores.
 
-To derive the RFM values of each customer, first we have to calculate the R(recency), F(frenquency) and the M(Monetary) scores of each customer using the PERCENTRANK function.
-Create a pivot table named RFM table from the "Transactions" dataset using the customer_id, recency, product_id and profit columns.
+To derive the RFM values of each customer, first we have to calculate the R (recency), F (frenquency), and M (monetary) scores of each customer using the PERCENTRANK function.
+Create a pivot table named RFM table from the "Transactions" dataset using the customer_id, recency, product_id, and profit columns.
 
 - Recency: Talks about how recent your transaction is as compared to the current date. This is determined by substracting the last transaction date from the comparison(current) date.
   ```=Comparison date - Transaction_date```                                                                                                                                      
@@ -102,10 +101,11 @@ Group customers based on their RFM scores.
   |4 - 2|Regular customer|
   |1| Needs attention|
 
-Now, sort the customers from highest to lowest based on their RFM score. After that we can now select the top 1000 customers.
+- Based on their RFM score, sort customers from highest to lowest. We are then able to choose the top 1000 customers.
 
 ## Key Findings/ Customer Behaviour
-The top 1000 customers out of a total of 3494 customers were selected for this analysis. Also known as the target customers.
+
+For this study, the top 1000 customers were chosen from a total of 3494 customers. 
 
 ## Age Distribution
 
