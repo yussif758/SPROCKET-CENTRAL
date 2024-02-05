@@ -56,7 +56,7 @@ Create additional columns to allow for further and easy analysis.
 
 - Profit column in the Transactions dataset with the formula ```=list_price - standard_cost```
 
-Join some of the columns from the "customer demographic" to "transactions" datasets with the help of "VLOOKUP" for further analysis.
+I add some of the columns from the "customer demographic" to "transactions" datasets with the help of "VLOOKUP" for further analysis.
 - These are some of the Excel functions that helped me:
 
   ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,4,FALSE)```
@@ -147,10 +147,15 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/aa27d4ef-f43c-421a-9a94-17446346a554" width="900" height="450" >
 
 ###  Wealth Segment 
+- Largest number of customers are classified as "Mass Customer" followed by "High Net Customer".
+- "Affluent customers" accounted for the smallest percentage of customers (23.70%), while "mass customers" made up around 50.40% of the total.
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/3f94c2b1-6e97-44d1-9b43-fb737cfb50e8" width="900" height="450" >
 
 
 ## Customer Location
+
+- The target customers are dispersed throughout three Australian states, namely New South Wales, Queensland, and Victoria.
+
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/928dd37c-06fa-4dfd-b19e-4b4423324db2" width="900" height="450" >
 
  
