@@ -6,6 +6,7 @@
 - [Data Source](#Data-Source)
 - [Tools](#Tools)
 - [Data Exploration](#Data-Exploration)
+- [key Findings/Customer Behaviour](#Key-Findings/Customer-Behaviour)
 
 ## Background
 Sprocket Central Pty Ltd is a long-standing KPMG client specializing in high-quality bikes and accessible cycling accessories for riders.
