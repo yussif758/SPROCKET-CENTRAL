@@ -1,5 +1,5 @@
- 
-<img width="400" alt="Screenshot 2024-02-06 at 4 14 18 PM" src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/c2fbaf0e-063a-4449-a9f0-c181c087f802">
+<p align='center'>
+ <img width="400" alt="Screenshot 2024-02-06 at 4 14 18 PM" src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/c2fbaf0e-063a-4449-a9f0-c181c087f802">
 
 ## Background
 Sprocket Central Pty Ltd is a long-standing KPMG client specializing in high-quality bikes and accessible cycling accessories for riders.
