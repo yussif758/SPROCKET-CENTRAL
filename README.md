@@ -75,7 +75,7 @@ I add some of the columns from the "customer demographic" to "transactions" data
     
     ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,13,FALSE)```
   
-### MODEL DEVELOPMENT
+## MODEL DEVELOPMENT
 ### RFM Analysis
 In order to identify the top 1000 customers SPROCKET-CENTRAL should target, I used the RFM analysis method. This is a segmentation type that allows you to rank and segment customers based on the RFM values of their transactions. I was able to divide the customers into five segments according to their RFM scores.
 
@@ -162,7 +162,7 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/3f94c2b1-6e97-44d1-9b43-fb737cfb50e8" width="900" height="450" >
 
 
-## Customer Location
+### Customer Location
 
 - The target customers are dispersed throughout three Australian states, namely New South Wales, Queensland, and Victoria.
 
