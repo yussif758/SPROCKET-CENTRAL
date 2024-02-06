@@ -17,7 +17,7 @@ Using the existing 3 datasets (Customer demographic, customer address, and trans
 [Dataset](https://cdn-assets.theforage.com/vinternship_modules/kpmg_data_analytics/KPMG_VI_New_raw_data_update_final.xlsx) used for this analysis was provided by Sprocket Central Pty Ltd.
 ## Tools
 - Excel - Data Cleaning and Analysis
-- Tableau - Creating Dashboard
+- Tableau - Dashboard
 
  
 ## Data Exploration
