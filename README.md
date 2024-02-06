@@ -6,6 +6,7 @@
 - [Data Source](#Data-Source)
 - [Tools](#Tools)
 - [Data Exploration](#Data-Exploration)
+- [Model Development](#Model-Development)
 - [key Findings/Customer Behaviour](#Key-Findings/Customer-Behaviour)
 
 ## Background
