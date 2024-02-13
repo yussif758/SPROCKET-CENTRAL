@@ -126,47 +126,61 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 - Age groups between 80 and 100 years old appeared to have the fewest customers, according to the data. The age range of 80 to 100 years old comprises a small subset of the customers.
 
 
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/5edcbb9b-7f89-4c0a-b4cf-efc30332ce2c" width="850" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/4fa15f44-9bc0-4678-ae19-17126463bdee" width="850" height="450" >
 
+ 
 ### Gender Distribution 
 
 - There were three distinct gender categories among the target customers. Three genders: male, female, and unknown.
 - Female dominance is evident from the gender distribution chart.
 - Males account for only 46.40% of the target consumers, with 50.20% of them being female.
 - For the remaining 3.40% of customers, the gender is unknown.
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/10bb338f-e4ad-4fc7-b2df-8f09ec34be60" width="900" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/911a98ad-7eed-4e1d-9987-3d1127bff721" width="900" height="450" >
+
 
 ### Customer Segmentation
 - The target customers consists of customers who belong to the "top" or "loyal" customer segment.
 - The majority of the target customers are "top customers," making up 63.70% of the target customers.
 - While 36.30% of the target customers are loyal customers. 
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/64ae3383-3f3f-4d97-b64c-ab6b2128ecda" width="900" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/2a8f77d4-4cc9-4461-ac08-5151102b459d" width="900" height="450" >
+
+ 
 
 ### Job Distribution 
  
 - Most of the customers are in the financial services and manufacturing industries.
 - The financial services and manufacturing industries account for about 25% and 22%, respectively.
 - With 1.91%, 2.86%, and 3.70% of customers, respectively, the industries with the fewest customers are telecommunications, agriculture, and entertainment.
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/05f5e7fb-4105-4645-a42e-d0b69c20f490" width="900" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/de77f406-0f2c-4d94-83c1-8c8ed45805e2" width="900" height="450" >
+
+
 
 ### Total Profit per Month 
 - The line graph below displays the total profit from customer transactions per month.
 - With a total of $430,687 generated, April had the greatest amount. Followed by $429,340 generated in September.
 - January brought in the least amount of money from customer transactions, totaling $187,981.
 - Following the company's greatest profit in April, we can see fluctuations in the monthly profit.
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/aa27d4ef-f43c-421a-9a94-17446346a554" width="900" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/9a47aaeb-e886-4a7b-9767-2fa6e2c44b0c" width="900" height="450" >
+
 
 ###  Wealth Segment 
 - Largest number of customers are classified as "Mass Customer" followed by "High Net Customer".
 - "Affluent customers" accounted for the smallest percentage of customers (23.70%), while "mass customers" made up around 50.40% of the total.
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/3f94c2b1-6e97-44d1-9b43-fb737cfb50e8" width="900" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/97886d2c-57a4-4c6f-bad3-4f9c8f146738" width="900" height="450" >
+
 
 
 ### Customer Location
 
 - The target customers are dispersed throughout three Australian states, namely New South Wales, Queensland, and Victoria.
 
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/928dd37c-06fa-4dfd-b19e-4b4423324db2" width="900" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/1b41491e-7927-4dda-a58f-8f1058568c49" width="900" height="450" >
+
+
+
+### Target Customer Summary Dashboard
+
 
  
+![Target Customers Dashboard (1)](https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/e7965861-b536-4f92-a6fa-b8e8a5e41c02)
 
