@@ -79,7 +79,7 @@ I added some of the columns from the "customer demographic" to "transactions" da
     
     ```=VLOOKUP(C2,'Cleaned CustomerDemographic'!$A$1:$N$3998,13,FALSE)```
   
-## MODEL DEVELOPMENT
+## Model Development
 ### RFM Analysis
 In order to identify the top 1000 customers SPROCKET-CENTRAL should target, I used the RFM analysis method. This is a segmentation type that allows you to rank and segment customers based on the RFM values of their transactions. It is employed to ascertain which customers a company ought to focus on in order to boost revenue. 
 
