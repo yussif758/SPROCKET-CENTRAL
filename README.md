@@ -179,6 +179,9 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 
 ### Target Customer Summary Dashboard
 
+An interactive dashboard with an overview of consumer behaviour is shown below. 
+Click [here](https://public.tableau.com/app/profile/yussif.mohammed5972/viz/Book1_17010962797870/TargetCustomersDashboard) to access this dashboard on my tableau public profile
+
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/e7965861-b536-4f92-a6fa-b8e8a5e41c02" width="950" height="500" >
 
  
