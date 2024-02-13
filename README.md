@@ -9,6 +9,7 @@
 - [Data Exploration](#Data-Exploration)
 - [Model Development](#Model-Development)
 - [key Findings/Customer Behaviour](#Key-Findings/Customer-Behaviour)
+- [Customer Summary Dashboard](#Customer-Summary-Dashboard)
 
 ## Background
 Sprocket Central Pty Ltd. is a long-standing KPMG client specialising in high-quality bikes and accessible cycling accessories for riders.
@@ -181,7 +182,7 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 
 
 
-### Target Customer Summary Dashboard
+## Customer Summary Dashboard
 
 An interactive dashboard with an overview of consumer behaviour is shown below. 
 Click [here](https://public.tableau.com/app/profile/yussif.mohammed5972/viz/Book1_17010962797870/TargetCustomersDashboard) to access this dashboard on my tableau public profile.
