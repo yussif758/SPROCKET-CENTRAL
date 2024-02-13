@@ -142,7 +142,7 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 - The target customers consists of customers who belong to the "top" or "loyal" customer segment.
 - The majority of the target customers are "top customers," making up 63.70% of the target customers.
 - While 36.30% of the target customers are loyal customers. 
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/2a8f77d4-4cc9-4461-ac08-5151102b459d" width="900" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/adcb8b7b-4f38-4f43-b3ad-d2089ce2ed9f" width="900" height="450" >
 
  
 
