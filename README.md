@@ -151,8 +151,7 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 - Most of the customers are in the financial services and manufacturing industries.
 - The financial services and manufacturing industries account for about 25% and 22%, respectively.
 - With 1.91%, 2.86%, and 3.70% of customers, respectively, the industries with the fewest customers are telecommunications, agriculture, and entertainment.
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/de77f406-0f2c-4d94-83c1-8c8ed45805e2" width="900" height="450" >
-
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/e1eaa4d7-479a-4bf2-8afa-a3b6c2143c8e" width="900" height="450" >
 
 
 ### Total Profit per Month 
@@ -180,7 +179,7 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 
 ### Target Customer Summary Dashboard
 
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/e7965861-b536-4f92-a6fa-b8e8a5e41c02" width="900" height="450" >
 
  
-![Target Customers Dashboard (1)](https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/e7965861-b536-4f92-a6fa-b8e8a5e41c02)
 
