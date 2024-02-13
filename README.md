@@ -126,7 +126,7 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 - Age groups between 80 and 100 years old appeared to have the fewest customers, according to the data. The age range of 80 to 100 years old comprises a small subset of the customers.
 
 
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/4fa15f44-9bc0-4678-ae19-17126463bdee" width="850" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/4fa15f44-9bc0-4678-ae19-17126463bdee" width="850" height="500" >
 
  
 ### Gender Distribution 
@@ -135,7 +135,7 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 - Female dominance is evident from the gender distribution chart.
 - Males account for only 46.40% of the target consumers, with 50.20% of them being female.
 - For the remaining 3.40% of customers, the gender is unknown.
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/911a98ad-7eed-4e1d-9987-3d1127bff721" width="900" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/911a98ad-7eed-4e1d-9987-3d1127bff721" width="900" height="500" >
 
 
 ### Customer Segmentation
@@ -159,13 +159,13 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 - With a total of $430,687 generated, April had the greatest amount. Followed by $429,340 generated in September.
 - January brought in the least amount of money from customer transactions, totaling $187,981.
 - Following the company's greatest profit in April, we can see fluctuations in the monthly profit.
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/9a47aaeb-e886-4a7b-9767-2fa6e2c44b0c" width="900" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/9a47aaeb-e886-4a7b-9767-2fa6e2c44b0c" width="900" height="500" >
 
 
 ###  Wealth Segment 
 - Largest number of customers are classified as "Mass Customer" followed by "High Net Customer".
 - "Affluent customers" accounted for the smallest percentage of customers (23.70%), while "mass customers" made up around 50.40% of the total.
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/97886d2c-57a4-4c6f-bad3-4f9c8f146738" width="900" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/97886d2c-57a4-4c6f-bad3-4f9c8f146738" width="900" height="500" >
 
 
 
@@ -173,13 +173,13 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 
 - The target customers are dispersed throughout three Australian states, namely New South Wales, Queensland, and Victoria.
 
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/1b41491e-7927-4dda-a58f-8f1058568c49" width="900" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/1b41491e-7927-4dda-a58f-8f1058568c49" width="900" height="500" >
 
 
 
 ### Target Customer Summary Dashboard
 
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/e7965861-b536-4f92-a6fa-b8e8a5e41c02" width="900" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/e7965861-b536-4f92-a6fa-b8e8a5e41c02" width="950" height="500" >
 
  
 
