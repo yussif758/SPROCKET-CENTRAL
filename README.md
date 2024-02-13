@@ -3,6 +3,7 @@
 
 ## Table of content
 - [Background](#Background)
+- [Objective](#Objective)
 - [Data Source](#Data-Source)
 - [Tools](#Tools)
 - [Data Exploration](#Data-Exploration)
@@ -10,9 +11,12 @@
 - [key Findings/Customer Behaviour](#Key-Findings/Customer-Behaviour)
 
 ## Background
-Sprocket Central Pty Ltd is a long-standing KPMG client specializing in high-quality bikes and accessible cycling accessories for riders.
-Their marketing team is looking to boost business by analyzing their existing customer dataset to determine customer trends and behavior. 
-Using the existing 3 datasets (Customer demographic, customer address, and transactions) as a labeled dataset, please recommend which 1000 customers should be targeted to drive the most value for the organization. 
+Sprocket Central Pty Ltd. is a long-standing KPMG client specialising in high-quality bikes and accessible cycling accessories for riders.
+Their marketing team is looking to boost business by analysing their existing customer dataset.
+
+## Objective
+Using the existing 3 datasets (customer demographic, customer address, and transactions) as a labelled dataset, please recommend which 1000 customers should be targeted to drive the most value for the organisation and determine customer trends and behaviour. 
+
 ## Data Source 
 [Dataset](https://cdn-assets.theforage.com/vinternship_modules/kpmg_data_analytics/KPMG_VI_New_raw_data_update_final.xlsx) used for this analysis was provided by Sprocket Central Pty Ltd.
 ## Tools
