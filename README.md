@@ -77,9 +77,9 @@ I added some of the columns from the "customer demographic" to "transactions" da
   
 ## MODEL DEVELOPMENT
 ### RFM Analysis
-In order to identify the top 1000 customers SPROCKET-CENTRAL should target, I used the RFM analysis method. This is a segmentation type that allows you to rank and segment customers based on the RFM values of their transactions. I was able to divide the customers into five segments according to their RFM scores.
+In order to identify the top 1000 customers SPROCKET-CENTRAL should target, I used the RFM analysis method. This is a segmentation type that allows you to rank and segment customers based on the RFM values of their transactions. It is employed to ascertain which customers a company ought to focus on in order to boost revenue. 
 
-To derive the RFM values of each customer, first we have to calculate the R (recency), F (frenquency), and M (monetary) scores of each customer using the PERCENTRANK function.
+I was able to divide the customers into five segments according to their RFM scores. To derive the RFM values of each customer, first we have to calculate the R (recency), F (frenquency), and M (monetary) scores of each customer using the PERCENTRANK function.
 Create a pivot table named RFM table from the "Transactions" dataset using the customer_id, recency, product_id, and profit columns.
 
 - Recency: Talks about how recent your transaction is as compared to the current date. This is determined by substracting the last transaction date from the comparison(current) date.
@@ -180,7 +180,7 @@ For this study, the top 1000 customers were chosen from a total of 3494 customer
 ### Target Customer Summary Dashboard
 
 An interactive dashboard with an overview of consumer behaviour is shown below. 
-Click [here](https://public.tableau.com/app/profile/yussif.mohammed5972/viz/Book1_17010962797870/TargetCustomersDashboard) to access this dashboard on my tableau public profile
+Click [here](https://public.tableau.com/app/profile/yussif.mohammed5972/viz/Book1_17010962797870/TargetCustomersDashboard) to access this dashboard on my tableau public profile.
 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/e7965861-b536-4f92-a6fa-b8e8a5e41c02" width="950" height="500" >
 
