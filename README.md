@@ -129,10 +129,13 @@ Group customers based on their RFM scores.
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/c1ec47dd-022b-4dee-8821-2e24847f8489" width="900" height="450" >
  
 
-Relationship between Frequency and Monetary value 
+### Relationship between Frequency and Monetary value 
+- There is also a positive correlation between frequency and monetary value.
+- The amount of money made increases with the number of purchases made by the customers. 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/943ec903-19a6-45f0-9ae4-cda464c807b9" width="900" height="450" >
 
-Relationship between Recency and Fequency 
+### Relationship between Recency and Fequency 
+- 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/bcc7f280-e7a6-4837-bf01-f1c1a1e20b32" width="900" height="450" >
 
 ## Key Findings/ Customer Behaviour
