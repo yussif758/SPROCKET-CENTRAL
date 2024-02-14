@@ -135,7 +135,9 @@ Group customers based on their RFM scores.
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/943ec903-19a6-45f0-9ae4-cda464c807b9" width="900" height="450" >
 
 ### Relationship between Recency and Fequency 
-- 
+- Customers who have transacted with the business more recently typically make repeated purchases.
+- Recent transactions 0–40 days ago had higher frequency values as compared to transactions that happened over 50 days ago.
+
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/bcc7f280-e7a6-4837-bf01-f1c1a1e20b32" width="900" height="450" >
 
 ## Key Findings/ Customer Behaviour
