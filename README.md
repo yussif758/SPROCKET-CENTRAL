@@ -122,11 +122,12 @@ Group customers based on their RFM scores.
 - Based on their RFM score, sort customers from highest to lowest. We are then able to choose the top 1000 customers.
 
 ### Relationship between Recency and Monetary value
-- The scatterplot shows that there is a positive correlation between recency and monetary values.
+- The scatterplot demonstrates the positive correlation between monetary values and recency.
 - The more recent the transaction, the higher the revenue generated. The business has generated more revenue from customers who recently purchased products from them.
-- 
+- In comparison to those who transacted more than 50 days ago, customers with recent transactions (0–50 days ago) brought in the most money.
 
-<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/f5d88497-217c-40a6-b5b9-1d6b6e9d558d" width="900" height="450" >
+<img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/c1ec47dd-022b-4dee-8821-2e24847f8489" width="900" height="450" >
+ 
 
 Relationship between Frequency and Monetary value 
 <img src="https://github.com/yussif758/SPROCKET-CENTRAL/assets/135538081/943ec903-19a6-45f0-9ae4-cda464c807b9" width="900" height="450" >
