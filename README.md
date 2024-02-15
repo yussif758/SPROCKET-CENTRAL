@@ -119,7 +119,7 @@ Group customers based on their RFM scores.
   |4 - 2|Regular customer|
   |1| Needs attention|
 
-Based on their RFM score, sort customers from highest to lowest. We are then able to choose the top 1000 customers.
+Based on their RFM score, sort customers from highest to lowest. We are then able to choose the top 1000 customers. The "top" customers and some "loyal" customers make up the target customers the business should focus on. These customers made more recent purchases, frequently, and spent more money than any other customer. 
 
 ### Relationship between Recency and Monetary value
 - The scatterplot demonstrates the positive correlation between monetary values and recency.
