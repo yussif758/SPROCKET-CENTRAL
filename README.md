@@ -35,7 +35,7 @@ These are some of the data quality issues I encountered while reviewing the data
   |Customer Address| | | State Column had inconsistent format| | |
   |Transaction| | Customer ID, Online order, and brand columns had null values| | |Pricelist column had incorrect date format|
 
-Below are more in-depth descriptions of the data quality issues encountered in the datasets and some mitigation and recommendations. 
+Below are more in-depth descriptions of the data quality issues I encountered, with their respective mitigations and recommendations. 
 - Inaccuracy:
 
 Some dates in the "DOB" column in the "Customer Demographic" datasets were inaccurate and missing some values.
