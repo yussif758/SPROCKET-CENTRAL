@@ -88,7 +88,7 @@ I was able to divide the customers into five segments according to their RFM sco
 Create a pivot table named RFM table from the "Transactions" dataset using the customer_id, recency, product_id, and profit columns.
 
 - Recency: Talks about how recent your transaction is as compared to the current date. This is determined by substracting the last transaction date from the comparison(current) date.
-  ```=Comparison date - Transaction_date```                                                                                                                                      
+  ```=Comparison date - Transaction_date ``` or use the ``` Datediff()``` function to get the number of days since the last order.                                                                                                                                       
 
   Recency score = ```=(1-PERCENTRANK.INC($B$2:$B$3494,B2,1))*10```
 
